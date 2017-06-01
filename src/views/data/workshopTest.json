@@ -2,10 +2,30 @@
   "recordTitle": "Tracy C",
   "specfiles": [
     {
+      "filename": "Technical Drawing - Jons test",
+      "filetype": "PDF",
+      "view": "View File"
+    },    
+    {
       "filename": "Technical Drawing",
       "filetype": "PDF",
       "view": "View File"
-    }  
+    },
+    {
+      "filename": "Box Image",
+      "filetype": "PNG",
+      "view": "View File"
+    },
+    {
+      "filename": "Print Card",
+      "filetype": "PDF",
+      "view": "View File"
+    },
+    {
+      "filename": "Technical Drawing",
+      "filetype": "PPT",
+      "view": "View File"
+    }
   ],
   "accounts": [
     {
